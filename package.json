@@ -1,0 +1,21 @@
+{
+  "name": "phaser-3-typescript-template",
+  "version": "1.0.0",
+  "description": "Drawing platforms",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "easystarjs": "0.4.4",
+    "phaser": "^3.60.0",
+    "phaser3-plugin-isometric": "0.0.7",
+    "typescript": "3.9.5"
+  },
+  "devDependencies": {
+    "parcel": "^2.10.0",
+    "process": "^0.11.10"
+  },
+  "keywords": []
+}
