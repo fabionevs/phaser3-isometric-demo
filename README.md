@@ -16,4 +16,4 @@ Can you help us to improve our code?
 - [x] Create character
 - [x] Create world
 - [x] Create animations
-- [] Fix animations to work on phaser3-isometric-plugin
+- [ ] Fix animations to work on phaser3-isometric-plugin
